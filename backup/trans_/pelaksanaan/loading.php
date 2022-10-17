@@ -1,0 +1,1 @@
+<img src='images/ld.gif' align="center" width="100px" height="100px">

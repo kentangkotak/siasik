@@ -1,0 +1,1 @@
+<marquee><font color="red" size="50px">MAAF SERVER SEDANG MAINTENANCE...!!!</font></marquee>
